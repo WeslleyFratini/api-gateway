@@ -38,7 +38,7 @@ services:
 
 ```bash
 # Clone este repositório
-$ git clone 
+$ git clone https://github.com/WeslleyFratini/api-gateway
 
 # Acesse a pasta do projeto no terminal/cmd
 $ cd gateway
